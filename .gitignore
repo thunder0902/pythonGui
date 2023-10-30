@@ -34,3 +34,7 @@ venv/
 # Operating systems artifacts
 .DS_Store
 Thumbs.db
+
+build/CRM/
+dist/
+venv_name/
